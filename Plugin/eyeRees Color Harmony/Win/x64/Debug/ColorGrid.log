@@ -1,0 +1,19 @@
+﻿  Compiling the PiPL
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27024.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  ColorGridPiPL.r
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.16.27024.1 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  ColorGridPiPL.rrc
+  AEFX_SuiteHelper.c
+  AEGP_SuiteHandler.cpp
+  MissingSuiteError.cpp
+  Smart_Utils.cpp
+  ColorGrid.cpp
+  ColorGrid_Arb_Handler.cpp
+  ColorGrid_UI_Handler.cpp
+  Generating Code...
+     Creating library x64\Debug\/ColorGrid.lib and object x64\Debug\/ColorGrid.exp
+  ColorGrid.vcxproj -> I:\Adobe.After.Effects.CC.16.0.0.235.x64.Portable\After.Effects.16\App\Ae\Plug-ins\ColorGrid.aex
